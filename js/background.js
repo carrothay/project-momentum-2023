@@ -2,4 +2,4 @@
 // const chosenImage = images[Math.floor(Math.random() * images.length)];
 
 var myImg = document.querySelector(".myImg");
-myImg.src = `../img/0.jpg`;
+myImg.src = `./img/0.jpg`;
