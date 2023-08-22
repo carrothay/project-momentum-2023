@@ -104,6 +104,8 @@ section {
   display: block;
 }
 body {
+  display: flex;
+  align-items: center;
   line-height: 1;
 }
 ol,
@@ -131,6 +133,7 @@ table {
 html,
 body {
   min-width: 100vw;
+  min-height: 100vh;
 }
 .container {
   width: 70em;
